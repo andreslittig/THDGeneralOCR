@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="6dip" >
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="6dip"
+        android:contentDescription="TODO"
+        android:src="@drawable/abc_ic_ab_back_mtrl_am_alpha" />
+
+    <TextView
+        android:id="@+id/secondLine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:text="Description"
+        android:textSize="12sp"
+        android:layout_below="@+id/icon"
+        android:layout_alignEnd="@+id/icon"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+
+    <!--<TextView-->
+        <!--android:id="@+id/firstLine"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignWithParentIfMissing="true"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:text="TITLE"-->
+        <!--android:textSize="16sp"-->
+        <!--android:layout_below="@+id/icon"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true" />-->
+
+</RelativeLayout> 

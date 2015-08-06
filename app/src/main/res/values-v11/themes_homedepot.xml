@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="HomeDepot" parent="@style/_HomeDepot"/>
+
+  <style name="_HomeDepot" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextBackground">@drawable/homedepot_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#99f68121</item>
+    <item name="android:textSelectHandleLeft">@drawable/homedepot_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/homedepot_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/homedepot_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewHomeDepot</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/homedepot_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/homedepot_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonHomeDepot</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonHomeDepot</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerHomeDepot</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarHomeDepot</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarHomeDepot</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarHomeDepot</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigHomeDepot</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallHomeDepot</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleHomeDepot</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/homedepot_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/homedepot_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/homedepot_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>

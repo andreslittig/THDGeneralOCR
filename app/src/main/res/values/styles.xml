@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name = "THDNoActionBar" parent = "@style/_HomeDepot">
+        <item name = "android:windowActionBar">false</item>
+        <item name = "android:windowActionBarOverlay">false</item>
+        <item name = "android:windowNoTitle">true</item>
+        <item name = "android:windowFullscreen">true</item>
+    </style>
+</resources>

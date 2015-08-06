@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/THDGeneralOCR.iml" filepath="$PROJECT_DIR$/THDGeneralOCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary300rc1/openCVLibrary.iml" filepath="$PROJECT_DIR$/openCVLibrary300rc1/openCVLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/tess-two/tess-second.iml" filepath="$PROJECT_DIR$/libraries/tess-two/tess-second.iml" />
+    </modules>
+  </component>
+</project>

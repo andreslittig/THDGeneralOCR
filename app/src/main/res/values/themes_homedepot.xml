@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="HomeDepot" parent="@style/_HomeDepot"/>
+
+  <style name="_HomeDepot" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextStyle">@style/EditTextHomeDepot</item>
+
+    <item name="android:textColorHighlight">#99f68121</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewHomeDepot</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxHomeDepot</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonHomeDepot</item>
+
+    <item name="android:buttonStyle">@style/ButtonHomeDepot</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonHomeDepot</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerHomeDepot</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemHomeDepot</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarHomeDepot</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarHomeDepot</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarHomeDepot</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigHomeDepot</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallHomeDepot</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleHomeDepot</item>
+
+    <item name="android:listViewStyle">@style/ListViewHomeDepot</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewHomeDepot.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemHomeDepot</item>
+
+  </style>
+
+</resources>
